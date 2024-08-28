@@ -14,7 +14,7 @@ Database Backup &amp; Restore
 
 # Installation
 ```
-composer require codexshaper/database-backup-restore
+composer require ayhome/database-backup-restore
 ```
 
 ### MySql Dump *(Note: Mustbe installed `mysqldump` in your system)*
